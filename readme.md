@@ -15,7 +15,7 @@
 由于硬件资源有限，评测机（单节点）暂时不支持并发测试，如果参加者过多，将会考虑扩增节点。
 
 评测机编译参数只采用o1。
-   
+    
 ## CPU
 测试环境编译：
 g++ ./CPU_benchmark/cpu_benchmark.cpp cpu.cpp -I CPU_benchmark
